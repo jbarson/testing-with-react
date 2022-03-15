@@ -1,5 +1,8 @@
 # W08D02 - Unit & Integration Testing
 
+(Video)[https://youtu.be/3GD6oZNtjEs]
+(Repo)[https://github.com/jbarson/testing-with-react]
+
 ### To Do
 - [x] Tools for testing React
 - [x] Add Features/Tests to our App
